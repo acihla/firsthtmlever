@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+  <title>Soundtrack#1</title>
+  <trackList>
+   <track>
+    <location>music/Chrispy - Predator EP.mp3</location>
+    <image>images/chrispy.jpg</image>
+    <creator>Chrispy</creator>
+    <title>Predator</title>
+   </track>
+   <track>
+    <location>music/The Funeral (Butch Clancy).mp3</location>
+    <image>images/butch.jpg</image>
+    <creator>Butch Clancy</creator>
+    <title>The Funeral</title>
+   </track>
+<track>
+    <location>music/Reptile's Theme.mp3</location>
+    <image>images/skrillex.jpg</image>
+    <creator>Skrillex</creator>
+    <title>Reptile's Theme</title>
+   </track>
+<track>
+    <location>music/King Kong.mp3</location>
+    <image>images/kingkong.jpg</image>
+    <creator>Bare & Datsik</creator>
+    <title>King Kong</title>
+   </track>
+<track>
+    <location>music/Scary Monsters and Nice Sprites (Dirtyphonics Remix).mp3</location>
+    <image>images/skrillex.jpg</image>
+    <creator>Skrillex</creator>
+    <title>Scary Monsters and Nice Sprites</title>
+   </track>
+<track>
+    <location>music/Ruffneck Bass (320kbps Full Version).mp3</location>
+    <image>images/skrillex.jpg</image>
+    <creator>Skrillex</creator>
+    <title>Ruffneck Bass</title>
+   </track>
+  </trackList>
+</playlist>
+
+Scary Monsters and Nice Sprites (Dirtyphonics Remix)
